@@ -1,9 +1,6 @@
 # [Bootstrap Website Project](#)
 
-[This bootstrap Website](#) is designed using [Bootstrap](http://getbootstrap.com/). The website was a designed by [Larry Perry](http://larryperry.net/) from an original template created by [Start Bootstrap](http://startbootstrap.com/). The template includes 17 unique HTML pages and a working PHP contact form.
-=======
 [This bootstrap Website](#) is designed using [Bootstrap](http://getbootstrap.com/). The website was a designed by [Larry Perry](http://larryperry.com/) from an original template created by [Start Bootstrap](http://startbootstrap.com/). The template includes 17 unique HTML pages and a working PHP contact form.
->>>>>>> 2b864dc9403926e62f01fb849cfde7802869ac73
 
 ## Preview
 
