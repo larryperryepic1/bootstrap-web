@@ -1,6 +1,6 @@
 # [Bootstrap Website Project](#)
 
-[Modern Business](http://startbootstrap.com/template-overviews/modern-business/) is a multipurpose, full website template for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This template includes 17 unique HTML pages and a working PHP contact form.
+[This bootstrap Website](#) is designed using [Bootstrap](http://getbootstrap.com/). The website was a designed by [Larry Perry](http://larryperry.com/) from an original template created by [Start Bootstrap](http://startbootstrap.com/). The template includes 17 unique HTML pages and a working PHP contact form.
 
 ## Preview
 
